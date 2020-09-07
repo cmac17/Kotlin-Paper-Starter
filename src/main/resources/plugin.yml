@@ -1,0 +1,5 @@
+name: EasyQueue
+version: '1.0'
+author: Connor McNamara
+main: EasyQueue
+api-version: '1.13'
