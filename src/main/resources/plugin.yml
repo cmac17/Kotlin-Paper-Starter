@@ -1,5 +1,5 @@
-name: EasyQueue
+name: Kotlin-Spigot-Starter
 version: '1.0'
 author: Connor McNamara
-main: EasyQueue
+main: KotlinSpigotStarter
 api-version: '1.13'

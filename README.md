@@ -1,2 +1,2 @@
-# EasyQueue
-A simple queue plugin for Spigot Minecraft servers.
+# Kotlin-Spigot-Starter
+An empty seed project for building Spigot plugins using Kotlin.

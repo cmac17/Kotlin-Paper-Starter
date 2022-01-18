@@ -3,7 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.4.0'
 }
 
-group 'dev.mcnamara.easyqueue'
+group 'dev.mcnamara.kotlin-spigot-starter'
 version '1.0-SNAPSHOT'
 
 repositories {
