@@ -1,2 +1,2 @@
-# Kotlin-Spigot-Starter
-An empty seed project for building Spigot plugins using Kotlin.
+# Kotlin-Paper-Starter
+An empty seed project for building Spigot/PaperMC plugins using Kotlin.
