@@ -1,5 +1,5 @@
-name: Kotlin-Spigot-Starter
+name: Kotlin-Paper-Starter
 version: '1.0'
 author: Connor McNamara
-main: KotlinSpigotStarter
+main: KotlinPaperStarter
 api-version: '1.13'
