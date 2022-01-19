@@ -1,5 +1,4 @@
 import org.bukkit.plugin.java.JavaPlugin
-import java.util.*
 
 class KotlinPaperStarter: JavaPlugin() {
     override fun onEnable() {
